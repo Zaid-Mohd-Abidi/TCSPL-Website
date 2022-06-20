@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.methodexsystems.com	TRUE	/	FALSE	1999999999	trend_sesion_call	a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%222c1120679bdd6d4825b187e994467510%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%22182.72.39.10%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1655743847%3B%7D80542e1af6c8dad63ad0944b0d0f0a4636c1a0b2
+
